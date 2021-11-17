@@ -14,4 +14,8 @@ when I moved here.
 food was a way for me to connect with my culture easily, and that was not very possible.  
 - Another aspect that made me miss PR so much was Columbia's climate compared to [Puerto Rico's](climate.md). Columbia being in the Midwest, is either extremely hot or extremely cold. PR in the other hand, nice and warm during the day and most nights turn into "hoodie weather". 
 
+## Are you coming to PR soon?
+-  [ ] YES
+-  [ ] Of course!
+
 ![PR Beach](pr.jpeg)
