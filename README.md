@@ -1,7 +1,7 @@
 # Puerto Rico
 
 ## Do you want a tropical place to vacation in within American jurisdiction?   
-Puerto Rico is your place to go. 
+[Puerto Rico](https://www.discoverpuertorico.com/) is your place to go. 
 
 Capital: San Juan  
 Population: 3,143,000
