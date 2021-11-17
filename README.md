@@ -12,5 +12,5 @@ Moving here was difficult for me, leaving my life behind. Adjusting though, was 
 when I moved here.   
 - The food though, was very hard to recreate with the ingredients available in Columbia. This caused a lot of home sickness for me. I felt like 
 food was a way for me to connect with my culture easily, and that was not very possible.  
-- Another aspect that made me miss PR so much was Columbia's climate. Columbia being in the Midwest, is either extremely hot or extremely cold. PR in the other hand, nice and warm during the day and most nights turn into "hoodie weather". 
+- Another aspect that made me miss PR so much was Columbia's climate compared to [Puerto Rico's](climate.md). Columbia being in the Midwest, is either extremely hot or extremely cold. PR in the other hand, nice and warm during the day and most nights turn into "hoodie weather". 
 
