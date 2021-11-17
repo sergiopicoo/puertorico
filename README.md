@@ -1,6 +1,6 @@
 # Puerto Rico
 
-Do you want a tropical place to vacation in within American jurisdiction?   
+## Do you want a tropical place to vacation in within American jurisdiction?   
 Puerto Rico is your place to go. 
 
 Capital: San Juan  
